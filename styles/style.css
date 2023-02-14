@@ -1,0 +1,46 @@
+.main {
+  background-color: red;
+  height: 100vh;
+  width: 100%;
+}
+
+.top-div {
+  width: 100%;
+  height: 300px;
+  background-color: #eeeff1;
+  margin: 0 auto;
+}
+
+.top-dev-header {
+  font-size: 48px;
+}
+
+.btn-default {
+  background-color: #34547a;
+  color: white;
+  width: 225px;
+  height: 65px;
+}
+
+.primary {
+  background-color: #34547a;
+}
+
+ul {
+  width: 100%;
+  list-style-type: none;
+
+  overflow: hidden;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: #34547a;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
