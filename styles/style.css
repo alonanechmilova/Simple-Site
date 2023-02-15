@@ -9,11 +9,12 @@
   height: 700px;
   background-color: #eeeff1;
   margin: 0 auto;
+  padding-left: 399px;
 }
 
 .content {
-  padding-left: 399px;
   padding-top: 257px;
+  padding-left: 65px;
 }
 
 .top-dev-header {
@@ -77,7 +78,7 @@ li a {
   padding-top: 50px;
 }
 
-.icons-div {
+.container {
   height: 250px;
   background-color: #34547a;
 }
@@ -92,6 +93,20 @@ li a {
 .video-container {
   margin: 0 auto;
   padding-top: 57px;
+  padding-block-end: 57px;
   width: 1110px;
   height: 600px;
 }
+
+.end-div {
+padding-top: 50px;
+height: 151px;
+background-color: #34547a;
+text-align:left
+}
+
+.end-text{
+    padding-left: 406px;
+    color: white;
+}
+
